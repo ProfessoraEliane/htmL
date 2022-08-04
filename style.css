@@ -12,7 +12,8 @@ color: rgb(255, 255, 255);}
 #missao { font-size:20px}
 strong { color: #cfcfdb; }
 h2 {text-align: center;color: aqua;}
-.servicos {}
+.servicos 
+#logo {width: 50%; }
 .itens { font-style: italic; 
 color: aliceblue;}
 
