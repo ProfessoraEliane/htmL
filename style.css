@@ -4,9 +4,11 @@ h1 { text-align: center;
 font-size: 30px; 
 color:  white;
 padding: 10px;
-border: 10px solid rebeccapurple;}
+border: 10px solid rebeccapurple;
+margin: 10px;}
 
-#banner { width: 100%;}
+#banner { width: 100%;
+width: 100%; height: 100%;}
 
 p { text-align: justify;
 font-size: 20px;
