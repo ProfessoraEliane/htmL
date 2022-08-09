@@ -3,7 +3,8 @@ body { background-color: darkblue;
 h1 { text-align: center;
 font-size: 30px; 
 color:  white;
-padding: 10px;}
+padding: 10px;
+border: 10px solid rebeccapurple;}
 
 #banner { width: 100%;}
 
